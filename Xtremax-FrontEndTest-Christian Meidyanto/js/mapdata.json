@@ -1,0 +1,74 @@
+[
+    {
+        "place_name": "Merlion",
+        "Latitude": "1.286920",
+        "Longitude": "103.854570",
+        "Intro": "The Merlion is the national personification of Singapore.",
+        "Description" : "Its name combines \"mer\", meaning the sea, and \"lion\". The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means \"sea town\" in Javanese. The lion head represents Singapore's original name—Singapura—meaning \"lion city\" or \"kota singa\"",
+        "img" : "img/Merlion.jpg"
+    },
+    {
+        "place_name": "Asian Civilisations Museum",
+        "Latitude": "1.287466",
+        "Longitude": "103.851424",
+        "Intro": "Civilisations Museum (ACM) is an institution which forms a part of the four museums in Singapore.",
+        "Description" : "It is one of the pioneering museums in the region to specialise in pan-Asian cultures and civilisations. The museum specialises in the material history of China, Southeast Asia, South Asia and West Asia, from which the diverse ethnic groups of Singapore trace their ancestry.",
+        "img" : "img/Asian Civilisations Museum.jpg"
+    },
+    {
+        "place_name": "Clarke Quay",
+        "Latitude": "1.290555",
+        "Longitude": "103.846188",
+        "Intro": "Clarke Quay is a historical riverside quay in Singapore.",
+        "Description" : "The quay is situated upstream from the mouth of the Singapore River and Boat Quay. Clarke Quay is also the name of a road along the quay, part of which has since been converted into a pedestrian mall.",
+        "img" : "img/clarke_quay.jpg"
+    },
+    {
+        "place_name": "Fort Canning Park",
+        "Latitude": "1.295526",
+        "Longitude": "103.845331",
+        "Intro": "Fort Canning Hill is a historical park in Singapore.",
+        "Description" : "The park overlooks Orchard Road and is set in the heart of the Civic and Cultural District of Singapore, and it now offers a variety of recreational activities as well as historical, educational, entertainment and cultural experiences, and is also used as a place for social events.",
+        "img" : "img/Fort_Canning_Park.jpg"
+    },
+    {
+        "place_name": "Orchard Road",
+        "Latitude": "1.302279",
+        "Longitude": "103.837399",
+        "Intro": "Orchard Road is a major 2.5 km (1.6 mi)–long road in the Central Area of Singapore",
+        "Description" : "A famous tourist attraction, it is an upscale shopping area of Singapore, with numerous internationally renowned department stores, restaurants and coffeehouses located in its vicinity.",
+        "img" : "img/Orchard_Central.jpg"
+    },
+    {
+        "place_name": "Singapore Flyer",
+        "Latitude": "1.289332",
+        "Longitude": "103.863152",
+        "Intro": "The Singapore Flyer is a giant observation wheel at Downtown Core, Singapore.",
+        "Description" : "The Flyer has an overall height of 165 metres (541 ft) and was the world's tallest Ferris wheel until the 167.6 m (550 ft) High Roller, which is 2.6 m (9 ft) taller than the Flyer, opened on the Las Vegas Strip in Nevada, US, on 31 March 2014.",
+        "img" : "img/Singapore-flyer.jpg"
+    },
+    {
+        "place_name": "Marina Bay Sands",
+        "Latitude": "1.283099",
+        "Longitude": "103.860295",
+        "Intro": "The Marina Bay Sands is an integrated resort fronting Marina Bay within the Downtown Core district of Singapore.",
+        "Description" : "At its opening in 2010, it was billed as the world's most expensive standalone casino property at S$8 billion (US$6.88 billion), including the land cost. It is owned by the Singaporean subsidiary of the Las Vegas Sands Corporation.",
+        "img" : "img/mariana-bay.jpg"
+    },
+    {
+        "place_name": "Gardens By The Bay",
+        "Latitude": "1.281790",
+        "Longitude": "103.863954",
+        "Intro": "The Gardens by the Bay is a nature park spanning 101 hectares (250 acres) in the Central Region of Singapore, adjacent to the Marina Reservoir.",
+        "Description" : "The park consists of three waterfront gardens: Bay South Garden (in Marina South), Bay East Garden (in Marina East) and Bay Central Garden (in Downtown Core and Kallang). The largest of the gardens is the Bay South Garden at 54 hectares (130 acres) designed by Grant Associates. Its Flower Dome is the largest glass greenhouse in the world.",
+        "img" : "img/Gardens-by-the-Bay-Singapore.jpg"
+    },
+    {
+        "place_name": "Chinatown",
+        "Latitude": "1.284193",
+        "Longitude": "103.843362",
+        "Intro": "Chinatown has had a historically concentrated ethnic Chinese population.",
+        "Description" : "Chinatown is considerably less of an enclave than it once was. However, the precinct does retain significant historical and cultural significance. Large sections of it have been declared national heritage sites officially designated for conservation by the Urban Redevelopment Authority.",
+        "img" : "img/chinatown.jpg"
+    }
+]
